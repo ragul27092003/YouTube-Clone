@@ -28,7 +28,7 @@ youtube-clone/
 
 ├── index.html
 
-├── /style-All css files
+├── Css files
 
 ├── /icons → All icons
 
