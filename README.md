@@ -55,7 +55,7 @@ youtube-clone/
 ## 🌐 Live Demo
 
 Once hosted with GitHub Pages, you can access it here:  
-👉 `https://yourusername.github.io/youtube-clone/`
+👉 https://you-tube-clone-beryl-pi.vercel.app/
 
 ---
 
