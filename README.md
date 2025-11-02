@@ -25,9 +25,13 @@ It focuses on **front-end design and responsive layout** without using any JavaS
 youtube-clone/
 │
 ├── index.html
+
 ├── /style-All css files
+
 ├── /icons → All icons
+
 ├── /channel-pictures → All channel pictures
+
 └── /thumbnail-pics → All thumbnail pictures
 
 ---
