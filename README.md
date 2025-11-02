@@ -23,7 +23,9 @@ It focuses on **front-end design and responsive layout** without using any JavaS
 ## 📂 Folder Structure
 
 youtube-clone/
+
 │
+
 ├── index.html
 
 ├── /style-All css files
